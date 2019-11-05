@@ -7,7 +7,7 @@ const app=express()
 const publicPathDirection=path.join(__dirname,'../public')
 const viewPath=path.join(__dirname,'../templates/views')
 const  partialPath=path.join(__dirname,'../templates/partials')
-console.log (partialPath)
+
 
 
 
