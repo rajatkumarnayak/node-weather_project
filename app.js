@@ -14,7 +14,7 @@ yargs.command({
 
 yargs.command({
     command:'List',
-    define:'Adding  List !',
+    define:'Adding  List sad!',
     builder:{
         title:{
          define:'Test  1',
