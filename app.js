@@ -17,9 +17,10 @@ yargs.command({
     define:'Adding  List !',
     builder:{
         title:{
-         define:'Test 1',
+         define:'Test  1',
          demandOption:true,
          type:'string'
+
         }
     },
     handler:function(argv){
