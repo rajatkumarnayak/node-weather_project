@@ -8,7 +8,7 @@ yargs.command({
     command:'add',
     define:'Adding  notes !',
     handler:function(){
-        console.log('Adding a new notes!')
+        console.log('Adding a new notesss!')
     }
 })
 
